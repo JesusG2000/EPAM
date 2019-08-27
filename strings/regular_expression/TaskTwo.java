@@ -11,8 +11,6 @@ public class TaskTwo {
     public static void main(String[] args) {
         String text = getText("D:\\IdeaProjects\\BasicsTasks\\src\\by\\etc\\strings\\regular_expression\\person_data.xml");
         System.out.println(getData(text));
-
-
     }
 
     static String getText(String wayToFile) {
