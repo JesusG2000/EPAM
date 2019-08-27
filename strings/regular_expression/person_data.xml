@@ -1,0 +1,23 @@
+ <note3s33>
+    <note id="1">
+        <to>Ivan</to>
+        <from>Vova</from>
+        <heading>Notes</heading>
+        <body>Call me</body>
+        <paper/>
+        <paperTwo/>
+    </note>
+
+    <note id="2">
+        <to>Sasha</to>
+        <from>Lida</from>
+        <heading>Important reminder</heading>
+         <body/>
+        <big>BIG</big>
+
+
+    </note>
+     <note id="3">
+     <nothing>nothing</nothing>
+    </note>
+ </note3s33>
